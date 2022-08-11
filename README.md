@@ -7,3 +7,5 @@ It was a great opportunity to review some of the basics using Kaggle courses. On
 # Intro to SQL
 
      + Learn SQL for working with databases, using Google BigQuery.
+
+![Ibrahim Eldesoky Alghala - Intro to SQL](https://user-images.githubusercontent.com/101582700/184181582-66ea102b-ed86-43ce-8b8b-aaf2c2a084b1.png)
